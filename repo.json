@@ -13,13 +13,18 @@
       "name": "Entitlement Checker",
       "bundleIdentifier": "site.kenhtao.app.certificatecheck1",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
+      "developerName": "KENH TAO",
+      "subtitle": "View Entitlements & Information in a Certificate",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/CGwZxdg.png",
       "tintColor": "#096cf5",
-      "category": "other",
-      "screenshots": [],
+      "category": "developer",
+      "screenshots": [
+        "https://i.imgur.com/GyCGzPz.png",
+        "https://i.imgur.com/dmyghph.png",
+        "https://i.imgur.com/o8LsUZU.png",
+        "https://i.imgur.com/kMh1x4z.png"
+      ],
       "versions": [
         {
           "downloadURL": "https://github.com/serenityios/ipa-files/releases/download/utilities/site.kenhtao.app.certificatecheck1_1.0.1_und3fined.ipa",
@@ -40,6 +45,17 @@
   ],
   "news": [
     {
+      "title": "Certificate Checker",
+      "identifier": "news_gxrd1lv67q",
+      "caption": "Introducing an useful app (Entitlement Checker) in the Serenity Source!",
+      "date": "2025-08-17T14:09",
+      "tintColor": "#14b7ae",
+      "imageURL": "https://i.imgur.com/moikM0x.png",
+      "notify": true,
+      "url": "https://decrypt.day/app/id6749361295#google_vignette",
+      "appID": "site.kenhtao.app.certificatecheck1"
+    },
+    {
       "title": "Serenity Source",
       "identifier": "news_v8uf8foipk",
       "caption": "Introducing the default Serenity Source with help from the altstudio tool.",
@@ -48,7 +64,7 @@
       "imageURL": "https://i.imgur.com/8uXn9Pu.png",
       "notify": true,
       "url": "https://serenityios.com",
-      "appID": "site.kenhtao.app.certificatecheck1"
+      "appID": null
     }
   ]
 }
