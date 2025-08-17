@@ -1,33 +1,33 @@
 {
-  "name": "My Example Source",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "name": "Serenity",
+  "subtitle": "Default Serenity Source",
+  "description": "This is the default Serenity Source, you can find .ipa's that are either very important or very fun.\n\n",
   "iconURL": "https://i.imgur.com/3CLboLK.png",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
+  "website": "https://serenityios.com/",
+  "patreonURL": "",
   "tintColor": "#000000",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/o9IX6Ux.png",
   "apps": [
     {
-      "name": "My Example App",
-      "bundleIdentifier": "com.1el09c149t.sb73ybxbvm",
+      "name": "Entitlement Checker",
+      "bundleIdentifier": "site.kenhtao.app.certificatecheck1",
       "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
-      "tintColor": "#000000",
+      "iconURL": "https://i.imgur.com/CGwZxdg.png",
+      "tintColor": "#096cf5",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://testlsls.com/examp.ipa",
-          "size": 20000000,
-          "version": "1.00",
+          "downloadURL": "https://github.com/serenityios/ipa-files/releases/download/utilities/site.kenhtao.app.certificatecheck1_1.0.1_und3fined.ipa",
+          "size": 2700000,
+          "version": "1.01",
           "buildVersion": "",
-          "date": "2025-08-17T10:48:00+02:00",
-          "localizedDescription": null,
+          "date": "2025-08-17T08:48:00+02:00",
+          "localizedDescription": "Release",
           "minOSVersion": null
         }
       ],
@@ -38,5 +38,17 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Serenity Source",
+      "identifier": "news_v8uf8foipk",
+      "caption": "Introducing the default Serenity Source with help from the altstudio tool.",
+      "date": "2025-08-17T13:02",
+      "tintColor": "#000000",
+      "imageURL": "https://i.imgur.com/8uXn9Pu.png",
+      "notify": true,
+      "url": "https://serenityios.com",
+      "appID": "site.kenhtao.app.certificatecheck1"
+    }
+  ]
 }
